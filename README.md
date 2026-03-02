@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi, I'm Alek 
+
+I am a computer science student focused on cybersecutiy, cloud, and AI.
+
+## Current Focus
+
+## Projects
 
 <!--
 **alekguzm/alekguzm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
